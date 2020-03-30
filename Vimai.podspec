@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
     s.license                 = { :type => 'MIT', :file => 'LICENSE' }
 
     s.platform                = :ios
-    s.source                  = { :http => 'https://github.com/DongJiang/vimai-ios-sdk-specs/archive/v1.0.0.zip' }
+    s.source                  = { :http => 'https://github.com/Klaudas/testing/archive/v.1.0.0.zip' }
 
     s.ios.deployment_target   = '11.1'
     s.ios.vendored_frameworks = 'VimaiFramework.framework'
